@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="376" height="376" viewBox="0 0 376 376">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="376" height="376" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="74.342" height="91.829" fill="#f0f4fe"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="59.109" height="73.012" fill="#f0f4fe"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="109.215" height="102.357" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-17.217 -17.217)">
+    <g transform="matrix(1, 0, 0, 1, 17.22, 17.22)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="98" cy="98" r="98" transform="translate(90 87)" fill="#fff"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(158.567 101.217) rotate(34)" opacity="0.64">
+      <g id="Group_11" data-name="Group 11" clip-path="url(#clip-path)">
+        <path id="Path_5" data-name="Path 5" d="M48.7,30.911c4.785,8.971,19.608,8.269,24.346,17.265,2.494,4.737,1.128,10.765-1.985,15.121s-7.69,7.4-12.162,10.34L42.873,84.185c-5.6,3.688-11.608,7.5-18.316,7.64-7.5.151-14.517-4.564-18.6-10.853S.373,67.039.059,59.548C-.679,41.954,5.494,15.515,20.221,3.876c6.144-4.856,13.4-5.221,20.035-.686,10.887,7.447,3.256,17.988,8.448,27.72" transform="translate(0 0)" fill="#f0f4fe"/>
+      </g>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(280.043 276.619) rotate(-163)" opacity="0.64">
+      <g id="Group_11-2" data-name="Group 11" clip-path="url(#clip-path-2)">
+        <path id="Path_5-2" data-name="Path 5" d="M38.724,24.577c3.8,7.133,15.59,6.574,19.358,13.727,1.983,3.766.9,8.559-1.578,12.022s-6.114,5.882-9.67,8.222L34.088,66.935c-4.456,2.932-9.23,5.967-14.563,6.075-5.96.12-11.543-3.629-14.789-8.629S.3,53.3.047,47.346C-.54,33.357,4.368,12.336,16.077,3.082a12.729,12.729,0,0,1,15.93-.545c8.657,5.921,2.589,14.3,6.717,22.04" transform="translate(0 0)" fill="#f0f4fe"/>
+      </g>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(162.183 150.73)">
+      <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path-3)">
+        <path id="Path_1" data-name="Path 1" d="M34.766,86.159c1.812-1.3,3.595-2.653,5.454-3.885a4.716,4.716,0,0,1,2.252-.815c2.934-.134,5.882-.014,8.812-.189,10.936-.652,19.4-7.708,21.68-18.482.741-3.5.562-7.231.547-10.854a3.392,3.392,0,0,1,1.116-2.772c6.049-5.979,12.049-12.009,18.07-18.016a3.853,3.853,0,0,1,.774-.369c1.265,3.264,2.759,6.4,3.7,9.7a54.828,54.828,0,0,1,1.472,24.4,53.834,53.834,0,0,1-6.894,18.772,46.232,46.232,0,0,1-14.645,15.3,48.232,48.232,0,0,1-26.136,7.944c-16.367.208-32.737.093-49.106.112H.153a60.537,60.537,0,0,0-.066-7.927c-.511-3.8,1.259-5.908,4.133-8.049,10.8-8.04,21.4-16.344,32.09-24.527C44.58,60.167,52.9,53.907,61.148,47.549c6.637-5.117,13.159-10.383,19.8-15.5,6.114-4.708,12.324-9.291,18.479-13.946,2.72-2.057,5.408-4.158,8.113-6.235a2.743,2.743,0,0,1,1.677-.713l-74.9,74.468.454.532" transform="translate(0 -4.656)" fill="#001243"/>
+        <path id="Path_2" data-name="Path 2" d="M22.323,60.666,45.433,49.628,45.67,50,0,85.062V.048H12.813C23.569.048,34.327.179,45.08.012c10.32-.16,20.25,1.3,29.414,6.283a42.423,42.423,0,0,1,14.041,12.05c.565.764,1.178,1.493,1.859,2.353L70.059,36.2c-1.3-1.369-2.565-2.8-3.933-4.128A22.178,22.178,0,0,0,51.05,25.895c-7.538-.278-15.092-.143-22.639-.146-2.793,0-2.853.05-2.853,2.783,0,8.7,0,17.4.118,26.091.027,1.928-.35,3.4-2.091,4.4a10.849,10.849,0,0,0-1.5,1.248l.235.393" transform="translate(0 0)" fill="#688cfc"/>
+      </g>
+    </g>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="13" cy="13" r="13" transform="translate(129.217 237.217)" fill="#f7f9fe" opacity="0.64"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="13" cy="13" r="13" transform="translate(225.217 121.217)" fill="#f7f9fe" opacity="0.79"/>
+  </g>
+</svg>
