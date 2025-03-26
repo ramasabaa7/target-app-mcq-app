@@ -1,16 +1,5 @@
-# dopamin
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# target 
+# MCQ application
+# ui
+![image alt](https://github.com/ramasabaa7/target-app-mcq-app/blob/68565a605a8677e51d035365c9e8d3c3cdefb5bb/dopamin2.png)
+![image alt](https://github.com/ramasabaa7/target-app-mcq-app/blob/68565a605a8677e51d035365c9e8d3c3cdefb5bb/dopamin1.png)
